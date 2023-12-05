@@ -1,0 +1,1 @@
+psql -U uchosson -d postgres -f day0/reset_db.SQL
